@@ -1,5 +1,2 @@
-# Admin404 page
-
-# Welcome stranger
-
+# Welcome stranger you are in Admin404's page
 ---
