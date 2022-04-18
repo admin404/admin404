@@ -14,3 +14,8 @@ If you want the public resources is OpenSourced and GNU licensed
 
 ---
 ![](https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg)
+---
+
+my personal loved projects is 
+	[Templates project](https://github.com/admin404/Templates.git)
+	[Graphical propjects (not public for copying but if you want you can take a hints)](https://github.com/admin404/projects.git)
