@@ -18,13 +18,8 @@ If you want the public resources is OpenSourced and GNU licensed
 
 > my personal loved projects is:  
 	- [Templates project](https://github.com/admin404/Templates.git)  
-	---
-	Templates for programming I will continue to make from time to time
-	---
+	Templates for programming I will continue to make from time to time  
 	- [Graphical propjects](https://github.com/admin404/projects.git)  
-	---
-	Graphical projects
-	---
+	Graphical projects  
 	- [PCEM roms for mother boards](https://github.com/admin404/ROMs_pcem.git)
-	---
 	PCEM roms for motherboards in PCEM app
