@@ -1,4 +1,4 @@
 # admin 404
 ---
-Hello stranger, welcome its admin.
-I am a big brogrammer and I like to make apps for myself
+Hello stranger, I am ScoutV boy named George in the reality.
+Thank you for comming 
