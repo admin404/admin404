@@ -1,4 +1,6 @@
 # admin 404
+
+![](https://www.intel.com/content/dam/develop/external/us/en/images/gnu-782854.jpg)
 ---
 Hello stranger, I am ScoutV boy named George in the reality.  
 Thank you for comming.  
@@ -9,4 +11,4 @@ Thank you for watchign my User
 Welcome to my space.  
 If you want the public resources is OpenSourced and GNU licensed
 
-![GNU_license logo](https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg)
