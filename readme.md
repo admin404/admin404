@@ -17,5 +17,5 @@ If you want the public resources is OpenSourced and GNU licensed
 ---
 
 my personal loved projects is 
-	-[Templates project](https://github.com/admin404/Templates.git)
-	-[Graphical propjects (not public for copying but if you want you can take a hints)](https://github.com/admin404/projects.git)
+	-[Templates project](https://github.com/admin404/Templates.git)  
+	-[Graphical propjects (not public for copying but if you want you can take a hints)](https://github.com/admin404/projects.git)  
