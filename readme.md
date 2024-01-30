@@ -9,4 +9,4 @@ Thank you for watchign my GitHub.
 Welcome to my space.  
 If you want the public resources is OpenSourced and GNU licensed
 ___
-![https://choosealicense.com/licenses/agpl-3.0/](https://raw.githubusercontent.com/admin404/admin404/main/AGPLv3_Logo.svg)
+![AGPLv3 Logo](https://raw.githubusercontent.com/admin404/admin404/main/AGPLv3_Logo.svg)
