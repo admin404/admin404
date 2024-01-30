@@ -9,4 +9,4 @@ Thank you for watchign my GitHub.
 Welcome to my space.  
 If you want the public resources is OpenSourced and GNU licensed
 ___
-![AGPLv3 Logo](admin404/admin404/AGPLv3_Logo.svg)
+![AGPLv3 Logo](https://github.com/admin404/admin404/AGPLv3_Logo.svg)
