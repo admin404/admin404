@@ -1,8 +1,5 @@
 # admin 404
-
-![](https://www.intel.com/content/dam/develop/external/us/en/images/gnu-782854.jpg)
----
-
+___
 Hello stranger, I am ScoutV boy named George in the reality.  
 Thank you for comming.  
 I am a programmer Designer video editor and a good person.  
@@ -11,8 +8,5 @@ I learning Programming for hacking and cheats using the insides of the app  .
 Thank you for watchign my GitHub.
 Welcome to my space.  
 If you want the public resources is OpenSourced and GNU licensed
-
----
-
-![](https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg)
----
+___
+![AGPLv3 Logo](admin404/admin404/AGPLv3_Logo.svg)
