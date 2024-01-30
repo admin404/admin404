@@ -1,5 +1,4 @@
 # admin 404
-___
 Hello stranger, I am ScoutV boy named George in the reality.  
 Thank you for comming.  
 I am a programmer Designer video editor and a good person.  
